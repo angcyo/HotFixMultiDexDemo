@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HotFixMultiDexDemo</string>
+    <string name="action_settings">打补丁</string>
+</resources>
